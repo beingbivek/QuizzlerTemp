@@ -1,4 +1,4 @@
-#Tue Apr 20 16:55:31 NPT 2021
+#Wed Apr 21 11:36:37 NPT 2021
 base.0=E\:\\Work\\Projects\\FlutterPj\\quizzler-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
